@@ -62,4 +62,4 @@
 | screenshot 			| screenshot [pid] <x68`|`x64> [run time in seconds]			| Process Injection 	| HERE 		|
 | setenv				| setenv [key] [value]											| 						| HERE 		|
 | shell 				| shell [command] [args]										| cmd.exe 				| HERE 		|
-| shinject				| `shinject [pid] <x86|x64> [/path/to/file.bin]`				| Process Injection 	| HERE 		|
+| shinject				| `shinject [pid] <x86\|x64> [/path/to/file.bin]`				| Process Injection 	| HERE 		|
